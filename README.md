@@ -1,8 +1,10 @@
-# Food-Delivery-.NET
+# Food Delivery
 
 *Read this in other languages: [English](README.en.md), [Romanian](README.md).*
 
-Proiectul are la bază limbajul de programare C# și include câteva concepte de bază ale Programării Orientată pe Obiecte precum abstractizarea, incapsularea, moștenirea și polimorfismul. Aplicația conține o clasă de bază [Persoana](#Persoana) și două derivate din ea, [Student](#Student) și [Profesor](#Profesor). Clasa [PersoaneUniversitate](#PersoaneUniversitate) conține instanțe ale celor două clase derivate, iar prin intermediul clasei [Meniu](#Meniu) se poate accesa interfața proiectului prin intermediul consolei. În cele două documente cu extensia .txt ([Studenti](Studenti.txt) și [Profesori](Profesori.txt)) se găsesc informațiile inițiale cu privire la cele două tipuri de persoane, ca mai apoi prin intermediul consolei să se poată folosi metode de Afișare, Adăugare și Ștergere.
+Proiectul are la bază limbajul de programare C# și include framework-uri precum .NET și Guna UI2.
+
+Conține o baza de date din care sunt preluate informații despre categorii, produse, comenzi și utilizatori. Aceasta baza de date este una de tip MySQL și permite o conexiune remote cu ajutorul [English](#https://remotemysql.com/)
 
 ## Interfața
 
