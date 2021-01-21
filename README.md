@@ -6,7 +6,7 @@ Proiectul are la bază limbajul de programare C# și include framework-uri precu
 
 ## Baza de date
 
-Conține o baza de date din care sunt preluate informații despre categorii, produse, comenzi și utilizatori. Aceasta baza de date este una de tip MySQL și permite o conexiune remote cu ajutorul [remotemysql.com](https://remotemysql.com/). Administrarea se face prin phpMyAdmin, in care se introduc cele doua script-uri ([database.sql](Script-uri Baza de date/database.sql) și [insert.sql](Script-uri Baza de date/insert.sql))
+Conține o baza de date din care sunt preluate informații despre categorii, produse, comenzi și utilizatori. Aceasta baza de date este una de tip MySQL și permite o conexiune remote cu ajutorul [remotemysql.com](https://remotemysql.com/). Administrarea se face prin phpMyAdmin, in care se introduc cele doua script-uri ([database.sql](Script-uri Baza de date/database.sql) și [insert](Script-uri Baza de date/insert.sql))
 
 ## Interfața
 
