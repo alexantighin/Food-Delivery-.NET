@@ -2,7 +2,8 @@
 
 *Read this in other languages: [English](README.en.md), [Romanian](README.md).*
 
-Proiectul are la bază limbajul de programare C# și include framework-uri precum .NET și Guna UI2.
+Proiectul are la bază limbajul de programare C# și include framework-uri precum .NET și Guna UI2. Constă în analiza, proiectarea și implementarea unei baze de date și a aplicației grafice aferente care să modeleze activitatea unui restaurant online.
+
 
 ## Baza de date
 
