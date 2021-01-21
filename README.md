@@ -4,7 +4,9 @@
 
 Proiectul are la bază limbajul de programare C# și include framework-uri precum .NET și Guna UI2.
 
-Conține o baza de date din care sunt preluate informații despre categorii, produse, comenzi și utilizatori. Aceasta baza de date este una de tip MySQL și permite o conexiune remote cu ajutorul [English](https://remotemysql.com/)
+## Baza de date
+
+Conține o baza de date din care sunt preluate informații despre categorii, produse, comenzi și utilizatori. Aceasta baza de date este una de tip MySQL și permite o conexiune remote cu ajutorul [remotemysql.com](https://remotemysql.com/). Administrarea se face prin phpMyAdmin, in care se introduc cele doua script-uri ([Romanian](README.md) și [Romanian](README.md))
 
 ## Interfața
 
